@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F8F5EF"/>
+  <circle cx="1035" cy="110" r="240" fill="#CFE8DF"/>
+  <circle cx="1080" cy="530" r="230" fill="#EAF5F1"/>
+  <g transform="translate(90 105)">
+    <circle cx="115" cy="115" r="105" fill="#FFFFFF" stroke="#C7AD7A" stroke-width="4"/>
+    <path d="M115 182c-13-48-15-91 0-129 19 28 26 72 0 129z" fill="#0F4C5C"/>
+    <path d="M111 167c-43-20-69-50-75-88 37 10 68 37 75 88z" fill="#4CAF89"/>
+    <path d="M119 167c43-20 69-50 75-88-37 10-68 37-75 88z" fill="#CFE8DF"/>
+    <path d="M52 169c31 31 68 44 111 30" fill="none" stroke="#C7AD7A" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="360" y="205" fill="#0F4C5C" font-size="30" font-weight="700" font-family="Arial, sans-serif">PROGRAMA MÉDICO</text>
+  <text x="360" y="285" fill="#17353D" font-size="64" font-weight="800" font-family="Arial, sans-serif">Manejo del Peso.cl</text>
+  <text x="360" y="350" fill="#61777D" font-size="32" font-family="Arial, sans-serif">Evaluación clínica · Plan individualizado</text>
+  <text x="360" y="398" fill="#61777D" font-size="32" font-family="Arial, sans-serif">· Seguimiento médico</text>
+  <rect x="360" y="448" rx="30" ry="30" width="320" height="60" fill="#0F4C5C"/>
+  <text x="405" y="488" fill="#FFFFFF" font-size="25" font-weight="700" font-family="Arial, sans-serif">manejodelpeso.cl</text>
+</svg>
