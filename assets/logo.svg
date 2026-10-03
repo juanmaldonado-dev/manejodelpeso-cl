@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Manejo del Peso.cl</title>
+  <desc id="desc">Símbolo circular de salud y manejo médico del peso.</desc>
+  <defs>
+    <linearGradient id="a" x1="0" x2="1">
+      <stop offset="0" stop-color="#0F4C5C"/>
+      <stop offset="1" stop-color="#1E6A75"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" x2="1">
+      <stop offset="0" stop-color="#4CAF89"/>
+      <stop offset="1" stop-color="#8BCAB0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="108" fill="#FFFFFF" stroke="#C7AD7A" stroke-width="4"/>
+  <circle cx="120" cy="120" r="92" fill="#F8F5EF"/>
+  <path d="M120 172c-13-48-15-91 0-129 19 28 26 72 0 129z" fill="url(#a)"/>
+  <path d="M116 157c-43-20-69-50-75-88 37 10 68 37 75 88z" fill="url(#b)"/>
+  <path d="M124 157c43-20 69-50 75-88-37 10-68 37-75 88z" fill="#CFE8DF"/>
+  <path d="M57 159c31 31 68 44 111 30" fill="none" stroke="#C7AD7A" stroke-width="7" stroke-linecap="round"/>
+  <path d="M80 171c6 5 12 9 18 12M107 186c7 2 14 4 22 4M140 189c7-1 14-3 20-6" fill="none" stroke="#0F4C5C" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
