@@ -252,3 +252,22 @@ details p { margin: -2px 0 20px; color: var(--muted); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; }
 }
+
+.footer-bottom a { color: #9FC5BE; text-decoration: none; }
+.footer-bottom a:hover { color: #FFFFFF; }
+
+.legal-page { max-width: 850px; }
+.legal-page h1 {
+  margin: 0 0 24px;
+  color: var(--ink);
+  font-size: clamp(40px, 6vw, 64px);
+  letter-spacing: -.045em;
+  line-height: 1.06;
+}
+.legal-page h2 {
+  margin-top: 42px;
+  font-size: 26px;
+  letter-spacing: -.025em;
+}
+.legal-page p { color: var(--muted); }
+.legal-page a { color: var(--petrol); font-weight: 750; }
